@@ -1,3 +1,3 @@
-# GitHub Repository für SWP16
+# GitHub Repository fÃ¼r SWP16
 
-Fragen an s.poelloth@oth-aw.de
+Fragen an me@jeremy-probst.de
